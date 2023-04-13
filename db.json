@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 3,
+      "firstName": "saifulgggggg",
+      "lastName": "Alam",
+      "email": "gmsaiful71@gmail.com",
+      "dob": "2023-04-10T18:00:00.000Z",
+      "gender": "male",
+      "education": "tacos-2",
+      "company": "sunnah Limited",
+      "experience": "55",
+      "package": "55555555"
+    },
+    {
+      "id": 5,
+      "firstName": "saiful",
+      "lastName": "Alam",
+      "email": "gmsaiful71@gmail.com",
+      "dob": "2023-04-10T18:00:00.000Z",
+      "gender": "male",
+      "education": "steak-0",
+      "company": "sunnah Limited",
+      "experience": "55354464",
+      "package": "55555555"
+    }
+  ]
+}
